@@ -8,7 +8,7 @@ class Doctor
     @@all << self
   end
 
-  def new_appointment(self, date)
+  def new_appointment(date)
     appt = Appointment.new
     #appt belongs to dr
   end
@@ -18,5 +18,5 @@ class Doctor
 
   def patients
   end
-  
+
 end
