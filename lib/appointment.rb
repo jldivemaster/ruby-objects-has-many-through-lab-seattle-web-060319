@@ -15,10 +15,5 @@ class Appointment
     @@all
   end
 
-  def appointments
-  end
-
-  def doctors
-  end
 
 end
